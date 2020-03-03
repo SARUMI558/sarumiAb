@@ -1,0 +1,30 @@
+body{
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+    background: #ccc;
+}
+  
+  a {
+    text-decoration: none;
+  }
+  
+  h1,
+  a:link,
+  a:visited {
+    color: rgb(4, 189, 189);
+  }
+  
+  a:hover {
+    color: #f90;
+  }
+  
+  .container {
+  
+    margin-top: 40px;
+ 
+  }
+
+  #sidebar {
+    border-right: 1px solid #fff;
+  }
+  
